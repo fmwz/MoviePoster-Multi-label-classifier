@@ -1,5 +1,5 @@
 # Movie Poster Genre Classifier
-A multi-label image classifier that predicts movie genres from poster images using deep learning.
+A multi-label image classifier built on ResNet50 that predicts movie genres from poster images using deep learning.
 
 ## Overview
 This model analyzes movie posters and predicts multiple genres simultaneously using convolutional neural networks.
