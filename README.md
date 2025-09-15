@@ -10,6 +10,7 @@ Label-wise Accuracy: 91.6%
 Hamming Loss: 0.084
 Model Type: Multi-label CNN classifier
 
+## Small manual
 - How to use
 
 from tensorflow.keras.models import load_model
