@@ -11,12 +11,15 @@ Hamming Loss: 0.084
 Model Type: Multi-label CNN classifier
 
 - How to use
+
 from tensorflow.keras.models import load_model
 
 - Load the model
+
 model = load_model('new_model_name.h5')
 
 - Predict genres from poster image
+
 predictions = model.predict(image_array)
 
 ## Dataset
