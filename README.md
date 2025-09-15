@@ -6,9 +6,11 @@ This model analyzes movie posters and predicts multiple genres simultaneously us
 Genres include: Action, Adventure, Animation, Biography, Comedy, Crime, Documentary, Drama, Family, Fantasy, History, Horror, Music, Musical, Mystery, News, Reality-TV, Romance, Sci-Fi, Short, Sport, Thriller, War, and Western.
 
 ## Performance
-Label-wise Accuracy: 91.6%
-Hamming Loss: 0.084
-Model Type: Multi-label CNN classifier
+- Label-wise Accuracy: 91.6%
+
+- Hamming Loss: 0.084
+
+- Model Type: Multi-label CNN classifier
 
 ## Small manual
 - How to use
