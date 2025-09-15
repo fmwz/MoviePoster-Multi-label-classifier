@@ -1,4 +1,4 @@
-### Movie Poster Genre Classifier
+# Movie Poster Genre Classifier
 A multi-label image classifier that predicts movie genres from poster images using deep learning.
 
 ## Overview
