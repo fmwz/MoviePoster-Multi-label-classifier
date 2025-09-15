@@ -16,7 +16,7 @@ from tensorflow.keras.models import load_model
 
 - Load the model
 
-model = load_model('new_model_name.h5')
+model = load_model('poster_model.h5')
 
 - Predict genres from poster image
 
